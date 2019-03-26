@@ -1,0 +1,16 @@
+.buttons, .validate-content {
+    text-align: center;
+}
+
+.buttons {
+    padding-left: 45px;
+}
+
+.fieldcontain label {
+    width: 40%;
+}
+
+.validate-content {
+    color: red;
+    text-align: center;
+}
